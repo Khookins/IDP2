@@ -1,0 +1,3 @@
+execute at @r run summon potion ~ ~2 ~ {Glowing:1b,CustomNameVisible:1b,Owner:[I;137820932,-809025024,-2081052232,-626383823],Tags:["POTION"],CustomName:'{"text":"POTION","color":"dark_red","bold":true,"obfuscated":true}',Item:{id:"minecraft:potion",Count:1b,tag:{CustomPotionColor:0,CustomPotionEffects:[{Id:6,Amplifier:125b,Duration:200,ShowParticles:1b}],Enchantments:[{}]}}}
+playsound block.anvil.place master @a ~ ~ ~
+tellraw @a {"text":"POTION AMBUSH!","color":"blue","bold":true,"hoverEvent":{"action":"show_text","contents":[{"text":"A Random Player Gets' Hit by A Death Potion","color":"yellow"}]}}

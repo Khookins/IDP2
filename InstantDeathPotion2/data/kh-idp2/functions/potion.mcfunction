@@ -1,0 +1,1 @@
+give @s splash_potion{display:{Name:'{"text":"Subject ???","color":"dark_red","bold":true}',Lore:['{"text":"The True Death In Bottle","bold":true}']},Enchantments:[{}],CustomPotionEffects:[{Id:6,Amplifier:125b,Duration:200,ShowParticles:1b}],CustomPotionColor:0} 1

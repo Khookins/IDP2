@@ -1,0 +1,1 @@
+give @r potion{display:{Name:'{"text":"Sus Potion","bold":true}',Lore:['{"text":"Don\'t Tell Anyone But This Is Cum...","color":"gray","obfuscated":true}']},Enchantments:[{}],CustomPotionEffects:[{Id:6,Amplifier:125b,Duration:200,ShowParticles:1b}],CustomPotionColor:16775159} 1

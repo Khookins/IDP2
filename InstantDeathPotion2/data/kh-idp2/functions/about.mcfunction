@@ -1,0 +1,1 @@
+tellraw @s [{"text":"IDP2 is a Datapack That Gives You Op Commands That Let You Get Instant Death Potions Using The Instant Health Glitch. The Old One Had Problems So Here Is The New One. Have Fun! ","color":"dark_aqua"},{"text":";)","color":"red","bold":true}]
